@@ -1,0 +1,119 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Montserrat", sans-serif;
+}
+.logo {
+  text-align: center;
+  font-family: 'Passero One', cursive;
+  font-size: 50px;
+}
+a{
+  font-family: 'Patrick Hand', cursive;
+}
+body ul {
+  margin-left: auto;
+}
+
+.menu-bar {
+  background-color: #ffd705;
+}
+
+.nav-link {
+  font-size: 20px;
+  margin: 3px;
+  color: white !important;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  font-weight: 600;
+}
+
+.navbar-nav {
+  text-align: right;
+}
+
+.menu-bar .navbar-toggler {
+  margin-right: 20px;
+  outline: none !important;
+  border: none !important;
+}
+.bg-color {
+  background-color: #fae67f;
+  padding-bottom: 10.5%;
+}
+
+.nazev {
+  background-color: black;
+  padding: 25px;
+  border-radius: 20px;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+}
+.copy-bg {
+  background-color: #ffd705;
+  text-align: center;
+  font-weight: bold;
+}
+.img-savec {
+  width: 450px;
+  height: 300px;
+  background-image: url(./images/Zirafa.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img-ptak {
+  width: 450px;
+  height: 300px;
+  background-image: url(./images/Flamingo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img-plaz {
+  width: 450px;
+  height: 300px;
+  background-image: url(./images/Chameleon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img-ryba {
+  width: 450px;
+  height: 300px;
+  background-image: url(./images/Fish.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img-oboj {
+  width: 450px;
+  height: 300px;
+  background-image: url(./images/Frog.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img-bezobr {
+  width: 450px;
+  height: 300px;
+  background-image: url(./images/Bug.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.text {
+  text-align: center;
+  margin-top: 25px;
+  font-weight: bold;
+  color: black;
+}
+.txt-contact{
+  font-size: xx-large;
+  padding: 50px;
+}
